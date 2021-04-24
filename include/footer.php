@@ -5,7 +5,7 @@
             <img src="assets/img/logo-1.png" alt="" style="width: 100%;">
           </div>
           <div class="col-9 col-sm-8">
-            <h3 class="mb-1 mt-2" style="color: #FFDF80;">w w w . มี ทุ ก ห ว ย . c o m</h3>
+            <h3 class="mb-1 mt-2" style="color: #FFDF80;">วันนี้กูจะรวย</h3>
             <p class="mb-0 footer-content">&emsp;&emsp;&emsp;<span id="footer-content" class="lang">เราได้รวมหวยทุกประเภทไว้ที่นี้ที่เดียวเพื่อให้
               ผู้ใช้งานได้ดูและใช้อย่างมีประสิทธิภาพที่สุด ทั้งสลากกินแบ่งรัฐบาล สลากกินแบ่งต่างๆที่อยู่ในไทย
               และนอกประเทศ ทั้งงวดล่าสุดและก่อนหน้านี้ ลุ้นไปพร้อมกับเรา มีทุกหวย.com
@@ -25,7 +25,7 @@
         </div>
       </div>
       <div class="copyrigth py-6 text-center">
-        <span class="ls-1 text-white">Copyright © 2020 <span style="color: #B72027;">มีทุกหวย</span> All Rights
+        <span class="ls-1 text-white">Copyright © 2021 <span style="color: #B72027;">วันนี้กูจะรวย</span> All Rights
           Reserved.</span>
       </div>
     </footer>
