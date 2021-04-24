@@ -58,9 +58,9 @@ if (isset($_GET['lotto'])) {
                         <img id="th-3-1-3" src="assets/img/number/num-<?= $prize2[2] ?>.png" alt="" style="width: 30px; height: 100%">
                     </div>
                     <div class="col-lg-6 col-md-12 col-xs-12 d-flex justify-content-center">
-                        <img id="th-3-1-1" src="assets/img/number/num-<?= $prize2[4] ?>.png" alt="" style="width: 30px; height: 100%">
-                        <img id="th-3-1-2" src="assets/img/number/num-<?= $prize2[5] ?>.png" alt="" style="width: 30px; height: 100%">
-                        <img id="th-3-1-3" src="assets/img/number/num-<?= $prize2[6] ?>.png" alt="" style="width: 30px; height: 100%">
+                        <img id="th-3-1-1" src="assets/img/number/num-<?= $prize2[3] ?>.png" alt="" style="width: 30px; height: 100%">
+                        <img id="th-3-1-2" src="assets/img/number/num-<?= $prize2[4] ?>.png" alt="" style="width: 30px; height: 100%">
+                        <img id="th-3-1-3" src="assets/img/number/num-<?= $prize2[5] ?>.png" alt="" style="width: 30px; height: 100%">
                     </div>
                 </div>
             </div>
@@ -73,9 +73,9 @@ if (isset($_GET['lotto'])) {
                         <img id="th-3-1-3" src="assets/img/number/num-<?= $prize3[2] ?>.png" alt="" style="width: 30px; height: 100%">
                     </div>
                     <div class="col-lg-6 col-md-12 col-xs-12 d-flex justify-content-center">
-                        <img id="th-3-1-1" src="assets/img/number/num-<?= $prize3[4] ?>.png" alt="" style="width: 30px; height: 100%">
-                        <img id="th-3-1-2" src="assets/img/number/num-<?= $prize3[5] ?>.png" alt="" style="width: 30px; height: 100%">
-                        <img id="th-3-1-3" src="assets/img/number/num-<?= $prize3[6] ?>.png" alt="" style="width: 30px; height: 100%">
+                        <img id="th-3-1-1" src="assets/img/number/num-<?= $prize3[3] ?>.png" alt="" style="width: 30px; height: 100%">
+                        <img id="th-3-1-2" src="assets/img/number/num-<?= $prize3[4] ?>.png" alt="" style="width: 30px; height: 100%">
+                        <img id="th-3-1-3" src="assets/img/number/num-<?= $prize3[5] ?>.png" alt="" style="width: 30px; height: 100%">
                     </div>
                 </div>
                 </div>
